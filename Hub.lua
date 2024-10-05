@@ -9,9 +9,7 @@ local UICornermain = Instance.new("UICorner")
 local whatitis = Instance.new("TextLabel")
 local Buttons = Instance.new("Folder")
 local InfiniteYield = Instance.new("TextButton")
-local UICor
-
-ner = Instance.new("UICorner")
+local UICorner = Instance.new("UICorner")
 local PhantasmHub = Instance.new("TextButton")
 local UICorner_2 = Instance.new("UICorner")
 local XHub = Instance.new("TextButton")
